@@ -1,0 +1,6 @@
+{
+  "appTitle": "programa_layout",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
